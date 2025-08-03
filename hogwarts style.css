@@ -1,0 +1,77 @@
+h3 {
+  font-family: verdana;
+  font-weight: bolder;
+  text-shadow: 5px 5px 8px;
+}
+
+header {
+  background-color: gray;
+  margin: 10px 100px;
+  padding: 50px;
+  font-size: 90px;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.container {
+  margin: 100px;
+  background-color: gray;
+}
+.houses {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.houselink {
+  font-size: 30px;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  font-size: xx-large;
+}
+
+.Gryffindor {
+  color: #b50808;
+}
+.Slytherin {
+  color: #204623;
+}
+.Hufflepuff {
+  color: #ac8d02;
+}
+.Ravenclaw {
+  color: #0f0489;
+}
+
+p {
+  font-family: sans-serif;
+  font-style: italic;
+  /* color: #0ed128; */
+  font-size: 30px;
+  padding-top: 50px;
+}
+
+.Gryff {
+  background-color: red;
+  /* padding: 0 30px; */
+  width: 20%;
+  height: 500px;
+}
+
+.Sly {
+  background-color: green;
+  /* padding: 0 30px; */
+}
+.Huff {
+  background-color: yellow;
+  /* padding: 0 30px; */
+}
+
+.Raven {
+  background-color: blue;
+  /* padding: 0 30px; */
+}

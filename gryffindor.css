@@ -1,0 +1,28 @@
+.gen-container {
+  background-color: gray;
+  margin: 100px;
+  justify-content: center;
+}
+
+.header {
+  color: gold;
+  background-color: brown;
+  padding: 0 10px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+  font-family: Verdana;
+  text-align: center;
+  font-size: 25px;
+}
+.container1 {
+  display: flex;
+}
+
+.description {
+  font-family: Verdana;
+  color: white;
+  background-color: red;
+  padding: 10px 0;
+  font-size: 15px;
+  text-align: center;
+}

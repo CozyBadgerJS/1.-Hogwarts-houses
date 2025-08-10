@@ -1,0 +1,45 @@
+* {
+  font-family: verdana;
+}
+
+header {
+  margin-top: 20px;
+}
+.container1 {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+.house-title {
+  background-color: rgb(26, 88, 41);
+  color: silver;
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
+.presentation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: green;
+  color: white;
+  padding: 20px;
+  font-size: 100%;
+  width: 50%;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  margin-top: 30px;
+}
+
+.title2 {
+  text-align: center;
+  font-size: 25px;
+  margin: 10px;
+}
